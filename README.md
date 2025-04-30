@@ -7,7 +7,7 @@
 3. **Create the `notes` table** using the provided `schema.sql`:
    ```bash
    supabase db push
-4. **Deploy the Edge Functions:
+4. **Deploy** the Edge Functions:
    ```bash
    supabase functions deploy post_notes
    supabase functions deploy get_notes
