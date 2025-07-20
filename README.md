@@ -1,3 +1,7 @@
+# Supabase Notes Edge Functions Project
+
+A mini-project demonstrating how to build and deploy Supabase Edge Functions for a simple notes app. This project includes secure user authentication, a flexible notes schema, and API endpoints for creating and retrieving notes. It is designed for learning and quick prototyping with Supabase’s serverless functions and PostgreSQL.
+
 ## Setup & Deployment Steps
 
 1. **Create a Supabase Project** at [https://supabase.com](https://supabase.com)
